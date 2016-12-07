@@ -1,0 +1,18 @@
+AMAZON.HelpIntent was kann ich machen
+AMAZON.HelpIntent was kann ich hier machen
+AMAZON.HelpIntent was kann ich tuen
+AMAZON.HelpIntent was kann ich hier tuen
+AMAZON.HelpIntent welche Namen gibt es
+AMAZON.HelpIntent welche Vornamen gibt es
+AMAZON.NextIntent nächster Name
+AMAZON.NextIntent nächster Vorname
+AMAZON.PreviousIntent letzter Name
+AMAZON.PreviousIntent letzter Vorname
+AMAZON.PreviousIntent letzter Name nochmal
+AMAZON.PreviousIntent letzter Vorname nochmal
+AMAZON.NoIntent der nicht
+AMAZON.NoIntent der auch nicht
+AMAZON.YesIntent jup
+AMAZON.YesIntent genau der
+AMAZON.YesIntent genau der Name
+AMAZON.YesIntent genau der Vorname
