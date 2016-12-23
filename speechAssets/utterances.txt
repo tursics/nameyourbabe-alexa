@@ -16,3 +16,9 @@ AMAZON.YesIntent jup
 AMAZON.YesIntent genau der
 AMAZON.YesIntent genau der Name
 AMAZON.YesIntent genau der Vorname
+GetNewFactIntent nenne mir einen Namen
+GetNewFactIntent nenne mir einen Vornamen
+GetNewFactIntent sage mir einen Namen
+GetNewFactIntent sage mir einen Vornamen
+GetNewFactIntent sage mir etwas
+GetNewFactIntent erzähle mir etwas
