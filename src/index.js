@@ -19,7 +19,7 @@ const languageStrings = {
 	'de-DE': {
 		translation: {
 			SKILL_NAME: 'Baby Namen',
-			WELCOME_MESSAGE: 'Willkommen bei %s. Du kannst beispielsweise sagen: Nenne mir einen Vornamen. Ich kenne über 5000, also los geht\'s.',
+			WELCOME_MESSAGE: 'Willkommen bei "Baby Namen". Du kannst beispielsweise sagen: Nenne mir einen Vornamen. Ich kenne über 5000, also los geht\'s.',
             WELCOME_REPROMT: 'Wenn du wissen möchtest, was du sagen kannst, sag einfach „Hilf mir“.',
             HELP_MESSAGE: 'Ich kenne über 5000 beliebte Vornamen. Du kannst sagen, „Nenne mir einen Vornamen“, und ich verrate dir einen. Oder du kannst „Beenden“ sagen... Wie kann ich dir helfen?',
             HELP_REPROMPT: 'Wie kann ich dir helfen?',
